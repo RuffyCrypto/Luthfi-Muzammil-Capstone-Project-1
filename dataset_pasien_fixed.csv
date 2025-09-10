@@ -1,0 +1,51 @@
+id_pasien;nama;usia;jenis_kelamin;diagnosis;tanggal_masuk
+1;Timothy Salazar;2;Perempuan;Hipertensi;2024-12-22
+2;Alec Terry;62;Laki-laki;Hipertensi;2025-03-18
+3;Valerie Mason;85;Laki-laki;Covid-19;2025-08-19
+4;Scott Neal;28;Laki-laki;Diabetes;2024-12-22
+5;Patricia Colon;60;Laki-laki;Patah Tulang;2024-10-08
+6;Eric Keller;7;Perempuan;Demam;2025-01-16
+7;Stefanie Ross;1;Laki-laki;Demam;2025-07-02
+8;John Romero;2;Laki-laki;Demam;2024-11-24
+9;Joseph Smith;20;Laki-laki;Covid-19;2024-10-01
+10;Vanessa Rowland;40;Laki-laki;Asma;2025-03-19
+11;Ann Miller;46;Perempuan;Asma;2025-08-20
+12;Tiffany Haney;30;Laki-laki;Covid-19;2025-02-13
+13;Charlene Fowler;23;Perempuan;Patah Tulang;2024-10-10
+14;Brittany Miller;49;Perempuan;Asma;2025-05-11
+15;Christopher Smith;43;Perempuan;Patah Tulang;2025-03-14
+16;Stanley Mendoza;3;Perempuan;Covid-19;2025-07-14
+17;Craig Erickson;47;Laki-laki;Hipertensi;2024-08-30
+18;Misty Marshall;77;Laki-laki;Diabetes;2025-02-28
+19;Caleb Baker;1;Perempuan;Hipertensi;2024-10-28
+20;Lori Moran;13;Perempuan;Demam;2024-12-11
+21;Stephen Norman;50;Laki-laki;Demam;2024-11-30
+22;Carrie Robinson;79;Perempuan;Demam;2025-04-05
+23;Melissa Boyd;10;Laki-laki;Patah Tulang;2024-09-17
+24;Troy Foster;38;Laki-laki;Hipertensi;2025-08-19
+25;David Lopez;64;Perempuan;Asma;2025-01-08
+26;Allison Little;8;Perempuan;Patah Tulang;2025-08-27
+27;Joseph Hart;22;Laki-laki;Covid-19;2024-10-10
+28;Allen Miller;54;Laki-laki;Covid-19;2025-02-18
+29;Mr. Ryan Wright;20;Perempuan;Demam;2025-05-29
+30;Vanessa Marshall;19;Laki-laki;Diabetes;2025-07-10
+31;Nathan Porter;65;Perempuan;Covid-19;2025-02-15
+32;Mary Arellano;31;Perempuan;Asma;2024-10-11
+33;John Brooks;67;Laki-laki;Covid-19;2024-09-25
+34;Brenda Long;23;Perempuan;Covid-19;2024-12-24
+35;Rachel Allen;9;Perempuan;Hipertensi;2024-12-20
+36;Albert Hancock;6;Laki-laki;Asma;2025-03-03
+37;Edwin Spears;9;Perempuan;Asma;2025-07-05
+38;Rebecca Jones;76;Perempuan;Patah Tulang;2024-12-29
+39;Gabriel Palmer;72;Laki-laki;Diabetes;2025-03-25
+40;Steven Thomas;46;Perempuan;Hipertensi;2025-05-17
+41;Johnny Estrada;57;Perempuan;Diabetes;2024-11-02
+42;Steven Jones;73;Laki-laki;Diabetes;2025-03-13
+43;Roy Mclean;53;Laki-laki;Patah Tulang;2025-03-02
+44;Heather Jennings;26;Laki-laki;Patah Tulang;2025-02-19
+45;Peter Gordon;4;Perempuan;Patah Tulang;2024-10-16
+46;Jasmine Meyer;37;Perempuan;Hipertensi;2024-09-20
+47;Brittney Stokes MD;45;Perempuan;Demam;2025-08-16
+48;Jacqueline Chan;63;Laki-laki;Hipertensi;2024-12-30
+49;Eric Kim;79;Perempuan;Demam;2024-12-10
+50;Eric West;9;Perempuan;Diabetes;2025-02-05
